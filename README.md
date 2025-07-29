@@ -1,8 +1,8 @@
-# Superstore Sales Exploratory Data Analysis
+# Superstore Sales Exploratory Data Analysis 📊
 
 This project provides an exploratory data analysis (EDA) of a Superstore sales dataset. The analysis aims to uncover insights about sales performance, customer segments, product categories, and temporal trends.
 
-## Dataset
+## Dataset 📦
 The dataset used in this project is available on Kaggle: [Superstore Sales Forecasting](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 It contains 9,800 records with 18 columns, including:
@@ -11,7 +11,7 @@ It contains 9,800 records with 18 columns, including:
 - Product categories and sub-categories
 - Sales figures
 
-## Key Analyses Performed
+## Key Analyses Performed 🔍
 - **Data Cleaning:** Handling missing values and data types.
 - **Customer Segmentation:** Analysis of customer types (Consumer, Corporate, Home Office) and their sales contributions.
 - **Order Frequency:** Identifying repeat customers and top spenders.
@@ -20,7 +20,7 @@ It contains 9,800 records with 18 columns, including:
 - **Product Analysis:** Sales by product category and sub-category.
 - **Time Series Analysis:** Yearly, quarterly, and monthly sales trends, with visualizations.
 
-## Visualizations
+## Visualizations 📈
 The notebook includes various charts such as pie charts, bar plots, and line graphs to illustrate:
 - Customer and sales distribution by segment
 - Shipping mode usage
@@ -28,10 +28,10 @@ The notebook includes various charts such as pie charts, bar plots, and line gra
 - Product category and sub-category performance
 - Sales trends over time
 
-## Usage
+## Usage 🚀
 Open the notebook in Jupyter or Google Colab and run the cells sequentially. Ensure the dataset (`train.csv`) is available at the specified path or update the path as needed.
 
-## Requirements
+## Requirements 🛠️
 - Python 3.x
 - pandas
 - numpy
@@ -39,4 +39,6 @@ Open the notebook in Jupyter or Google Colab and run the cells sequentially. Ens
 - seaborn
 
 ## Author
+Ilija  [GitHub](https://github.com/ituni42) | [LinkedIn](https://www.linkedin.com/in/ilijatokicc/)
+
 *This analysis was performed as part of a data science case study.* 
